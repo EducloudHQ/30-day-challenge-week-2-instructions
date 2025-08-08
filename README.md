@@ -1,9 +1,9 @@
 # 30-day-challenge-week-2-instructions
 **Week 2: Cloud & AI Foundations** 
 
-**Challenge 4: Go through the “Introduction of Cloud Computing on Educloud Academy”** [**https://www.educloud.academy/content/9713ebb8-0ade-469f-a53a-d84eca5c3a61  
+**Challenge 4: Go through the [Introduction of Cloud Computing on Educloud Academy](https://www.educloud.academy/content/9713ebb8-0ade-469f-a53a-d84eca5c3a61)  
   
-**](https://www.educloud.academy/content/9713ebb8-0ade-469f-a53a-d84eca5c3a61)**Task 1:** Deploy a Serverless Function on AWS Lambda  
+**Task 1:** Deploy a Serverless Function on AWS Lambda  
   _Tools_: AWS Lambda + API Gateway
 
 **Task 2:**Create a Serverless REST API with AWS Lambda and API Gateway. Protect your API with an API Key  
